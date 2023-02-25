@@ -1,5 +1,4 @@
-# An image-statistics-based approach
-to detect recaptured images from screens
+# Detection of Recaptured Images from LCD Screens 
 
 Final project for the *Signal, Image and Video* course at University of Trento (M.Sc. Artificial Intelligence Systems).
 
