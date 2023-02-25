@@ -14,5 +14,5 @@ can be used to distinguish between single captured images (i.e., real-world scen
 digital camera) and recaptured images from LCD screens (i.e., single captured images displayed on
 a LCD screen and then recaptured by a digital camera).
 
-In our project we followed the approach proposed by Kai Wang in the article [*A Simple and Effective
-Image-Statistics-Based Approach to Detecting Recaptured Images from LCD Screens* (https://www.semanticscholar.org/paper/A-simple-and-effective-image-statistics-based-to-Wang/4ffd6da6d26598dd36fc34b4d6605a5d06112a53)].
+In our project we followed the approach proposed by Kai Wang in the article [A Simple and Effective
+Image-Statistics-Based Approach to Detecting Recaptured Images from LCD Screens(https://www.semanticscholar.org/paper/A-simple-and-effective-image-statistics-based-to-Wang/4ffd6da6d26598dd36fc34b4d6605a5d06112a53)].
