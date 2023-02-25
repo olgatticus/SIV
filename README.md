@@ -4,7 +4,7 @@ Final project for the *Signal, Image and Video* course at University of Trento (
 
 ## Description
 
-The aim of the paper is to detect whether an image is an original one or if it is a recapture of
+The goal of the project is to detect whether an image is an original one or if it is a recapture of
 an already existing image showed on a LCD screen. In fact, one particular problem addressed by
 image forensics is that nowadays, with the increasing popularity and quality of digital cameras,
 everyone can take a picture of an already existing one and use this recaptured image for bad and
