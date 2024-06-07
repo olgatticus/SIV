@@ -12,5 +12,4 @@ illegal purposes. In order to deal with such problem, a mathematical tool is use
 digital camera) and recaptured images from LCD screens (i.e., single captured images displayed on
 a LCD screen and then recaptured by a digital camera).
 
-In our project we followed the approach proposed by Kai Wang in *A Simple and Effective
-Image-Statistics-Based Approach to Detecting Recaptured Images from LCD Screens*.
+In our project, we followed the approach proposed by *Wang, K. (2017). A simple and effective image-statistics-based approach to detecting recaptured images from LCD screens. Digital Investigation, 23, 75-87*.
